@@ -1,0 +1,14 @@
+Downloading: https://cip-nexus-assurance.is.echonet/repository/ALL_REPOSITORIES/org/mule/common/mule-common/3.8.0/mule-common-3.8.0.pom
+Downloading: https://repository.mulesoft.org/releases/org/mule/common/mule-common/3.8.0/mule-common-3.8.0.pom
+Downloading: https://repository.mulesoft.org/nexus/content/repositories/public/org/mule/common/mule-common/3.8.0/mule-common-3.8.0.pom
+Downloading: https://repository.mulesoft.org/releases/org/mule/extensions/mule-extensions-annotations/1.0.0-alpha-1/mule-extensions-annotations-1.0.0-alpha-1.pom
+Downloading: https://repository.mulesoft.org/nexus/content/repositories/public/org/mule/extensions/mule-extensions-annotations/1.0.0-alpha-1/mule-extensions-annotations-1.0.0-alpha-1.pom
+Downloading: https://cip-nexus-assurance.is.echonet/repository/ALL_REPOSITORIES/org/igniterealtime/smack/smack/3.4.1/smack-3.4.1.pom
+Downloading: https://repository.mulesoft.org/releases/org/igniterealtime/smack/smack/3.4.1/smack-3.4.1.pom
+Downloading: https://repository.mulesoft.org/nexus/content/repositories/public/org/igniterealtime/smack/smack/3.4.1/smack-3.4.1.pom
+Downloading: https://cip-nexus-assurance.is.echonet/repository/ALL_REPOSITORIES/org/igniterealtime/smack/smackx/3.4.1/smackx-3.4.1.pom
+Downloading: https://repository.mulesoft.org/releases/org/igniterealtime/smack/smackx/3.4.1/smackx-3.4.1.pom
+Downloading: https://repository.mulesoft.org/nexus/content/repositories/public/org/igniterealtime/smack/smackx/3.4.1/smackx-3.4.1.pom
+Downloading: https://cip-nexus-assurance.is.echonet/repository/ALL_REPOSITORIES/javax/script/js-engine/1.1/js-engine-1.1.pom
+Downloading: https://repository.mulesoft.org/releases/javax/script/js-engine/1.1/js-engine-1.1.pom
+Downloading: https://repository.mulesoft.org/nexus/content/repositories/public/javax/script/js-engine/1.1/js-engine-1.1.pom
